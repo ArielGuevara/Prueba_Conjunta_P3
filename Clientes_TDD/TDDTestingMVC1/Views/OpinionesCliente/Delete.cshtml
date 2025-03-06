@@ -1,0 +1,33 @@
+﻿@model TDDTestingMVC1.Models.OpinionesCliente
+
+@{
+    ViewData["Title"] = "Eliminar Opinión";
+}
+
+<h2>Eliminar Opinión</h2>
+
+<div class="alert alert-warning">
+    <h4>¿Estás seguro que deseas eliminar esta opinión?</h4>
+    <div>
+        <strong>Cliente:</strong> @Model.ClienteID
+    </div>
+    <div>
+        <strong>Producto:</strong> @Model.ProductoID
+    </div>
+    <div>
+        <strong>Calificación:</strong> @Model.Calificacion
+    </div>
+    <div>
+        <strong>Comentario:</strong> @Model.Comentario
+    </div>
+    <div>
+        <strong>Fecha:</strong> @Model.Fecha.ToShortDateString()
+    </div>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <div class="form-group mt-3">
+        <button type="submit" class="btn btn-danger">Eliminar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>

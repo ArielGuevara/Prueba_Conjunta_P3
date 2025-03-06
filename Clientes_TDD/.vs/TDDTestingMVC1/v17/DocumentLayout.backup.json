@@ -1,0 +1,968 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\insertstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\insertstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\editstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\editstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\insert.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\insert.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\edit.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\edit.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\delete.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\delete.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\deletestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\deletestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\circulo.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\circulo.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\circulostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\circulostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\clientestepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\clientestepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\data\\opinionesclientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\data\\opinionesclientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\data\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\data\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\opinionescliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\opinionescliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\controllers\\opinionesclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\controllers\\opinionesclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\opinionescliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\opinionescliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\opinionescliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\opinionescliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\opinionescliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\opinionescliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\opinionescliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\opinionescliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\opinionescliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\opinionescliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\data\\productodataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\data\\productodataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\testcliente\\insertclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|solutionrelative:testcliente\\insertclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\testcliente\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|solutionrelative:testcliente\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\reqnrolltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\reqnrolltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB54131B-9CCB-40A1-8AAA-C30A1C31854B}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\testcliente\\eliminarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|solutionrelative:testcliente\\eliminarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\testcliente\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|solutionrelative:testcliente\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\testcliente\\testcliente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3065B36-620A-41B1-8AE1-71D5AA19259C}|TestCliente\\TestCliente.csproj|solutionrelative:testcliente\\testcliente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\wwwroot\\css\\styleindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\wwwroot\\css\\styleindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\ariel\\documentos\\espe\\pruebas\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\EditStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\EditStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\EditStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\EditStepDefinitions.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:28:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.feature",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Edit.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Edit.feature",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Edit.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Edit.feature",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAACHAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-23T22:51:44.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insert.feature",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Insert.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Insert.feature",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Insert.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Insert.feature",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-20T12:23:15.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\InsertStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\InsertStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\InsertStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\InsertStepDefinitions.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwE8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T12:44:16.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:41:12.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\DeleteStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\DeleteStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\DeleteStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\DeleteStepDefinitions.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAtwFgAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:05:14.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.feature",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Delete.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Delete.feature",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Delete.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Delete.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-24T00:04:35.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExtentReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Reports\\ExtentReportManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Reports\\ExtentReportManager.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Reports\\ExtentReportManager.cs",
+              "RelativeToolTip": "ReqnrollTest\\Reports\\ExtentReportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:27:14.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "ReqnrollTest\\Hooks\\Hooks.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:50:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:24:50.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.feature",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Login.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Login.feature",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Login.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Login.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-25T12:18:54.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Circulo.feature",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Circulo.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Circulo.feature",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Circulo.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Circulo.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-19T04:54:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CirculoStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\CirculoStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\CirculoStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\CirculoStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\CirculoStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:09:54.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteStepDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\ClienteStepDefinition.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\ClienteStepDefinition.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\ClienteStepDefinition.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\ClienteStepDefinition.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:36:18.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OpinionesClienteDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Data\\OpinionesClienteDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Data\\OpinionesClienteDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Data\\OpinionesClienteDataAccessLayer.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Data\\OpinionesClienteDataAccessLayer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAuwJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:27:41.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Data\\ClienteDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Data\\ClienteDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Data\\ClienteDataAccessLayer.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Data\\ClienteDataAccessLayer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:57:30.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:43:05.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:39:58.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:40:01.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T13:25:05.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OpinionesClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\OpinionesClienteController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Controllers\\OpinionesClienteController.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\OpinionesClienteController.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Controllers\\OpinionesClienteController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:21:08.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\OpinionesCliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\OpinionesCliente\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:11:28.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\OpinionesCliente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Delete.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\OpinionesCliente\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:13:50.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Details.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\OpinionesCliente\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Details.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\OpinionesCliente\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:21:08.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OpinionesCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\OpinionesCliente.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\OpinionesCliente.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\OpinionesCliente.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\OpinionesCliente.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:19:03.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:45:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\OpinionesCliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Create.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\OpinionesCliente\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:48:20.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Details.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Cliente\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Details.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Cliente\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T08:32:03.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:46:06.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\OpinionesCliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\OpinionesCliente\\Edit.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\OpinionesCliente\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:03:25.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:39:19.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:20:25.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductoDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Data\\ProductoDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Data\\ProductoDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Data\\ProductoDataAccessLayer.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Data\\ProductoDataAccessLayer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:22:48.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Producto.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\Producto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:18:07.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\appsettings.json",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\appsettings.json",
+              "RelativeToolTip": "TDDTestingMVC1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T12:09:06.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Cliente.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\Cliente.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:12:51.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:39:16.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:35:33.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:39:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T13:01:53.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T13:11:38.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "InsertClient.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\InsertClient.cs",
+              "RelativeDocumentMoniker": "TestCliente\\InsertClient.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\InsertClient.cs",
+              "RelativeToolTip": "TestCliente\\InsertClient.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:45:22.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\EditarCliente.cs",
+              "RelativeDocumentMoniker": "TestCliente\\EditarCliente.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\EditarCliente.cs",
+              "RelativeToolTip": "TestCliente\\EditarCliente.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:24:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReqnrollTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\ReqnrollTest.csproj",
+              "RelativeDocumentMoniker": "ReqnrollTest\\ReqnrollTest.csproj",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\ReqnrollTest.csproj",
+              "RelativeToolTip": "ReqnrollTest\\ReqnrollTest.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T13:37:04.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WebDriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Utilities\\WebDriverManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Utilities\\WebDriverManager.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Utilities\\WebDriverManager.cs",
+              "RelativeToolTip": "ReqnrollTest\\Utilities\\WebDriverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:45:20.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Calculator.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Calculator.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-18T13:37:39.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "eliminarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\eliminarCliente.cs",
+              "RelativeDocumentMoniker": "TestCliente\\eliminarCliente.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\eliminarCliente.cs",
+              "RelativeToolTip": "TestCliente\\eliminarCliente.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:54:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestCliente\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\UnitTest1.cs",
+              "RelativeToolTip": "TestCliente\\UnitTest1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:52:40.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Circulo.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Circulo.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\Circulo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:11:02.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Calculadora.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Calculadora.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:51:35.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Program.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Program.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:39:53.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:40:13.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TestCliente.csproj",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\TestCliente.csproj",
+              "RelativeDocumentMoniker": "TestCliente\\TestCliente.csproj",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TestCliente\\TestCliente.csproj",
+              "RelativeToolTip": "TestCliente\\TestCliente.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T16:57:54.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T12:38:33.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:40:00.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TDDTestingMVC1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:43:02.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TDDTestingMVC1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAGBnwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T12:43:57.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "styleIndex.css",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\wwwroot\\css\\styleIndex.css",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\wwwroot\\css\\styleIndex.css",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\ESPE\\Pruebas\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\wwwroot\\css\\styleIndex.css",
+              "RelativeToolTip": "TDDTestingMVC1\\wwwroot\\css\\styleIndex.css",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwv6kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T12:43:23.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
